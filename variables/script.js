@@ -21,3 +21,15 @@ console.log(gf); /* adisa */
 /** we can combine the variable declaration and assignment into a single line:*/
 
 let gf = "adisa";
+
+/** we can also declare multiple variables into one line */
+
+let gf = "adisha", age = 20, height = 5'feet' ;
+
+/** like i said variable is like a box, so we can change its value or data anytime   */
+let gf = 'adisha';
+
+gf = 'nimila';
+ gf = 'orunita';
+
+ console.log(gf) /** it will show current data or value */
